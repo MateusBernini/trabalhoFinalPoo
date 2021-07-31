@@ -1,0 +1,1 @@
+Sistema com CRUD completo para controle de estoque de uma loja de conserto de eletrodomésticos feito em Java.
